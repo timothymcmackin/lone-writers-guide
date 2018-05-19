@@ -12,7 +12,7 @@ Starting notes:
 ---------------
 
 * What are static site generators?
-* From the June WTD Newletter:
+* From the June WTD Newsletter:
 
 WHAT IS A STATIC SITE GENERATOR?
 ================================
